@@ -1,5 +1,4 @@
 # Fawry-Internship-2nd-ChallengeQuantum-Bookstore
-# Quantum Book Store - Technical Documentation
 
 ## Overview
 
