@@ -3,6 +3,8 @@
 ## Overview
 
 The Quantum Book Store is a Java-based inventory management system that handles different types of books including physical books, eBooks, and showcase items. The system provides functionality for adding books, managing inventory, processing purchases, and removing outdated items.
+![v2 1](https://github.com/user-attachments/assets/a3ed3340-29c5-46f5-b61a-eb01771fb6b9)
+![v2 2](https://github.com/user-attachments/assets/d68d49ac-ac10-4c5a-981d-6ad1707a1e8f)
 
 ## System Architecture
 
@@ -251,8 +253,8 @@ The application provides detailed console output for all operations:
    - Logging framework integration
    - Retry mechanisms for service calls
 
-## Dependencies
 
+## Dependencies
 - Java 8+ (for LocalDate usage)
 - Java Collections Framework
 - Standard Java I/O libraries
